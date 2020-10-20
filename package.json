@@ -1,6 +1,6 @@
 {
   "name": "cra-template-drupal-pdb",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "keywords": [
     "react",
     "create-react-app",
@@ -8,6 +8,7 @@
     "drupal"
   ],
   "description": "A base for Create React App in Drupal custom block modules.",
+  "main": "template.json",
   "repository": {
     "type": "git",
     "url": "https://github.com/gscottqueen/cra-template-drupal-pdb.git"
