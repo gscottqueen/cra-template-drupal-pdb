@@ -1,1 +1,1 @@
-``npx create-react-app my-app --template file:../../../../cra-template-drupal-pdb/`
+`npx create-react-app my-app --template cra-template-drupal-pdb`
