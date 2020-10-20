@@ -1,0 +1,25 @@
+{
+  "name": "cra-template-drupal-pdb",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "drupal"
+  ],
+  "description": "A base for Create React App in Drupal custom block modules.",
+  "repository": {
+    "type": "git",
+    "url": "",
+    "directory": ""
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "files": [
+    "template",
+    "template.json",
+    "README.md"
+  ]
+}
