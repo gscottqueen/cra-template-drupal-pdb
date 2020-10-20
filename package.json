@@ -10,8 +10,8 @@
   "description": "A base for Create React App in Drupal custom block modules.",
   "repository": {
     "type": "git",
-    "url": "",
-    "directory": ""
+    "url": "https://github.com/gscottqueen/cra-template-drupal-pdb",
+    "issues": "https://github.com/gscottqueen/cra-template-drupal-pdb/issues"
   },
   "license": "MIT",
   "engines": {
@@ -21,5 +21,9 @@
     "template",
     "template.json",
     "README.md"
-  ]
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "G. Scott Queen"
 }
