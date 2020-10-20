@@ -1,1 +1,1 @@
-`npx create-react-app my-app --template cra-template-drupal-pdb`
+`npx create-react-app app --template drupal-pdb `
