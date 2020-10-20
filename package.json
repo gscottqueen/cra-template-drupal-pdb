@@ -10,8 +10,10 @@
   "description": "A base for Create React App in Drupal custom block modules.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gscottqueen/cra-template-drupal-pdb",
-    "issues": "https://github.com/gscottqueen/cra-template-drupal-pdb/issues"
+    "url": "https://github.com/gscottqueen/cra-template-drupal-pdb"
+  },
+  "bugs": {
+    "url": "https://github.com/gscottqueen/cra-template-drupal-pdb/issues"
   },
   "license": "MIT",
   "engines": {
