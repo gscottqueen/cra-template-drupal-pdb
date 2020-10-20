@@ -8,6 +8,7 @@
       "react-dom": "^16.13.1",
       "react-scripts": "3.4.1",
       "@craco/craco": "^5.7.0",
+      "dot-env": "0.0.1",
       "eslint-plugin-jsx-a11y": "^6.2.3"
     },
   "scripts": {
