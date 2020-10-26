@@ -22,8 +22,6 @@ module.exports = {
         overrideWebpackConfig: ({ webpackConfig }) => {
           // we overide the filename for our output files
           webpackConfig.plugins[5].options.filename = 'static/css/'+ process.env.REACT_APP_NAME + '.min.css';
-          webpackConfig.module.rules[2].oneOf[0].options.name = 'static/media/[name].[ext]'
-          webpackConfig.module.rules[2].oneOf[7].options.name = 'static/media/[name].[ext]'
           return webpackConfig;
         },
       },
