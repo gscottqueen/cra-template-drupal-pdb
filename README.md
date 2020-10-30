@@ -8,3 +8,7 @@ for this reason we are better able to control the file we want to assign in our 
 
 ## Install
 `npx create-react-app app --template drupal-pdb `
+
+## Commands
+
+We provide craco commands to run our custom overides; `start-craco`, `build-craco`, `test-craco`.
